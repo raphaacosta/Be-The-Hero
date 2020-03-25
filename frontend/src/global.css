@@ -63,7 +63,7 @@ form textarea {
 }
 
 .back-link {
-  display: felx;
+  /* display: felx; */
   align-items: center;
   margin-top: 40px;
   color: #41414d;
