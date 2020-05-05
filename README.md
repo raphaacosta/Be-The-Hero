@@ -14,7 +14,7 @@
 
 ### Requisitos
 
-- Package manager yarn ou npm
+- Yarn ou npm
 - Expo-cli
 
 ### Instalação
@@ -26,9 +26,9 @@
 
 ### Uso
 
-- Para rodar o back-end da aplicação rode o comando: `$ cd caminho/ate/Be-The-Hero/backend/ && yarn start`.
-- Para rodar o front-end rode o comando: `$ cd caminho/ate/Be-The-Hero/frontend/ && yarn start`.
-- Para rodar a aplicação mobile, rode o comando: `$ caminho/ate/Be-The-Hero/mobile && expo start`, ou `$ caminho/ate/Be-The-Hero/mobile && yarn start`
+- Para iniciar o back-end da aplicação rode o comando: `$ cd caminho/ate/Be-The-Hero/backend/ && yarn start`.
+- Para iniciar o front-end rode o comando: `$ cd caminho/ate/Be-The-Hero/frontend/ && yarn start`.
+- Para iniciar a aplicação mobile, rode o comando: `$ caminho/ate/Be-The-Hero/mobile && expo start`, ou `$ caminho/ate/Be-The-Hero/mobile && yarn start`
 
 # :computer: Tecnologias Usadas
 
