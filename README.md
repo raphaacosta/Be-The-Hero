@@ -14,7 +14,7 @@
 
 ### Requisitos
 
-- [Yarn](https://yarnpkg.com/) package manager ou [npm](https://nodejs.org/en/)
+- Package manager yarn ou npm
 - Expo-cli
 
 ### Instalação
