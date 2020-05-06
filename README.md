@@ -19,7 +19,7 @@
 
 ### Instalação
 
-- Guia de instalação para o [Yarn](https://yarnpkg.com/)
+- Guia de instalação para o [Yarn](https://classic.yarnpkg.com/en/docs/install#mac-stable)
 - Guia de instalação para o [npm](https://nodejs.org/en/)
 - Guia de instalação para o [Expo-cli](https://expo.io)
 - Baixe este repositório em sua máquina e instale as dependências rodando `$ yarn install` em cada uma das pastas (backend, frontend e mobile)
