@@ -30,6 +30,7 @@
 
   <img alt="Be the Hero" src="./assets_for_Github/Detail-mobile.png" width="250px"/>
 </p>
+
 # :rocket: Iniciando
 
 ### Requisitos
