@@ -10,6 +10,18 @@
   </a>
 </p>
 
+# :computer: Web
+
+<img alt="Be the Hero" src="./assets_for_Github/Home.png" width="450px"/>
+<img alt="Be the Hero" src="./assets_for_Github/Register.png" width="450px"/>
+<img alt="Be the Hero" src="./assets_for_Github/Profile.png" width="450px"/>
+
+# :iphone: Mobile
+
+<img alt="Be the Hero" src="./assets_for_Github/SplashScreen.png" width="250px"/>
+<img alt="Be the Hero" src="./assets_for_Github/Main-Mobile.png" width="250px"/>
+<img alt="Be the Hero" src="./assets_for_Github/Detail-mobile.png" width="250px"/>
+
 # :rocket: Iniciando
 
 ### Requisitos
