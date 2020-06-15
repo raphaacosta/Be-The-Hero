@@ -11,6 +11,7 @@
 </p>
 
 # :computer: Web Screenshots
+
 <div align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Be the Hero" src="./assets_for_Github/Home.png" width="450px"/>
 
@@ -19,7 +20,9 @@
   <img alt="Be the Hero" src="./assets_for_Github/Profile.png" width="450px"/>
 
 </div>
+
 # :iphone: Mobile Screenshots
+
 <p align="center" style="display: flex; align-items: flex-start; justify-content: space-between;">
   <img alt="Be the Hero" src="./assets_for_Github/SplashScreen.png" width="250px"/>
 
