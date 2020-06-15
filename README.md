@@ -10,18 +10,23 @@
   </a>
 </p>
 
-# :computer: Web
+# :computer: Web Screenshots
+<div align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Be the Hero" src="./assets_for_Github/Home.png" width="450px"/>
 
-<img alt="Be the Hero" src="./assets_for_Github/Home.png" width="450px"/>
-<img alt="Be the Hero" src="./assets_for_Github/Register.png" width="450px"/>
-<img alt="Be the Hero" src="./assets_for_Github/Profile.png" width="450px"/>
+  <img alt="Be the Hero" src="./assets_for_Github/Register.png" width="450px"/>
 
-# :iphone: Mobile
+  <img alt="Be the Hero" src="./assets_for_Github/Profile.png" width="450px"/>
 
-<img alt="Be the Hero" src="./assets_for_Github/SplashScreen.png" width="250px"/>
-<img alt="Be the Hero" src="./assets_for_Github/Main-Mobile.png" width="250px"/>
-<img alt="Be the Hero" src="./assets_for_Github/Detail-mobile.png" width="250px"/>
+</div>
+# :iphone: Mobile Screenshots
+<p align="center" style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <img alt="Be the Hero" src="./assets_for_Github/SplashScreen.png" width="250px"/>
 
+  <img alt="Be the Hero" src="./assets_for_Github/Main-Mobile.png" width="250px"/>
+
+  <img alt="Be the Hero" src="./assets_for_Github/Detail-mobile.png" width="250px"/>
+</p>
 # :rocket: Iniciando
 
 ### Requisitos
