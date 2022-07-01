@@ -3,7 +3,7 @@ const connection = require('../database/connectino');
 module.exports = {
   async index(request, response) {
     const { page = 1 } = request.query;
-    
+
     const [count] = await connection('incidents').count();
 
     const incidents = await connection('incidents')
@@ -11,16 +11,16 @@ module.exports = {
       .limit(5)
       .offset((page - 1) * 5)
       .select([
-        'incidents.*', 
-        'ongs.name', 
-        'ongs.email', 
-        'ongs.whatsapp', 
-        'ongs.city', 
+        'incidents.*',
+        'ongs.name',
+        'ongs.email',
+        'ongs.whatsapp',
+        'ongs.city',
         'ongs.uf'
       ]);
 
     response.header('X-Total-Count', count['count(*)'])
-    
+
     return response.json(incidents);
   },
 
@@ -47,12 +47,12 @@ module.exports = {
       .select('ong_id')
       .first();
 
-    if(incident.ong_id !== ong_id) {
-      return response.status(401).json({ err: 'Operation not permited'});
+    if (incident.ong_id !== ong_id) {
+      return response.status(401).json({ err: 'Operation not permited' });
     }
 
     await connection('incidents').where('id', id).delete();
-    
+
     return response.status(204).send();
   }
 }
